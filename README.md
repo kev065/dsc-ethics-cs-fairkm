@@ -73,3 +73,6 @@ Based on the results, the researchers came to the following conclusions:
 * __Socially fair is more effective than proportionally fair__ - Previous methods for achieving fairness in k-means clustering considered the proportionality of the sensitive attributes in each cluster. The researchers found that improving the proportionality is actually at odds with improving the maximum average cost of the groups. Instead FairKM reduced bias by selecting features that are socially fair.
 
 
+## Summary
+Fairness has been a topic of serious concern in the machine learning community. In the past, efforts to make clustering algorithms more fair focused on proportion of sensitive features. On the other hand, FairKM devised a statistical method to determine which features created the most skew and to choose a centroid that takes this into consideration. The result is a low-cost and effective way to reduce machine learning bias in human-centric applications of clustering algorithms.
+
