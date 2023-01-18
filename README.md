@@ -1,7 +1,7 @@
 # Case Study - FairKM
 
 ## Introduction
-In previous lessons, we discussed how historical bias, implicit bias, and measurment bias can impact source data. We have also discussed how algorithmic bias can also result from these biases and the impact of algorithmic bias on machine learning models. In this lesson, we will discuss __FairKM__ and how a group of researchers recognized the impact of bias on __human-centric applications__ (such as resource allocation) and devised a solution to mitigate that bias to reduce __disparate outcomes__ that arise from bias in machine learning.
+In this lesson, you will learn about __FairKM__ and how a group of researchers recognized the impact of bias on __human-centric applications__ (such as resource allocation) and devised a solution to mitigate that bias to reduce __disparate outcomes__ that arise from bias in machine learning.
 
 ## Learning Objectives
 * Describe FairKM (AKA Fair-Lloyd) and discuss the reasons why the researches created it
